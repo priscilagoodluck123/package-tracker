@@ -8,8 +8,16 @@ width: 92%;
 padding: 50px;
 
 }
+.div2{
+  width: 50%;
+  background-color: white;
+  border-radius: 5px;
+  padding: 16%;
+  border-style: outset;
+  box-shadow: 50;
+}
 h1{
-  
+
   font-size: 60px;
   font-family: fantasy;
 }
